@@ -1,0 +1,66 @@
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+body {
+    background-color: #b9e2ff;
+}
+
+.tabladoc {
+    width: 90%;
+    height: 18vh;
+    background: #ffffff;
+    padding: 2px;
+    border-radius: 0.3cm;
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 7px 30px #4590a9;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+.caj{
+    
+    width: 15vh;
+    margin-left: 15px;
+}
+
+.cajaa {
+    padding: 0%;
+    width: 62%;
+    height: 85vh;
+    margin-left: 5vh;
+    margin-top: 5%;
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+
+
+.clasificacion {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+.botones {
+    padding-top: 5%;
+}
+
+.seleccionar {
+    box-shadow: 7px 7px 30px #1d568b;
+    width: 300px;
+    height: 40px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 0.3cm;
+
+}
+
+.seleccionar2 {
+    box-shadow: 7px 7px 30px #1d568b;
+    width: 300px;
+    height: 40px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 0.3cm;
+}

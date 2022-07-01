@@ -1,0 +1,36 @@
+.bot{
+    color: white;
+    
+}
+
+.cajaa {
+    padding: 0%;
+    width: 62%;
+    height: 85vh;
+    margin-left: 5vh;
+    margin-top: 5%;
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.tabla{
+    background-color: #115679;
+    text-align: center;
+    color: white;
+}
+
+.cuerpo{
+    text-align: center;
+}
+
+.buscar{
+    width: 25%;
+    height: 5vh;
+    margin-top: 10px;
+}
+
+.cuadro{
+    justify-content: flex-end;
+    height: 8vh;
+    background-color: #115679;
+}
